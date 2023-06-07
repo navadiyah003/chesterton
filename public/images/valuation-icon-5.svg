@@ -1,0 +1,32 @@
+<svg id="Group_31720" data-name="Group 31720" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.715" height="49" viewBox="0 0 51.715 49">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1004" data-name="Rectangle 1004" width="51.715" height="49" fill="#bc8418"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1005" data-name="Rectangle 1005" width="17.912" height="17.912" fill="#bc8418"/>
+    </clipPath>
+  </defs>
+  <g id="Group_30958" data-name="Group 30958">
+    <g id="Group_30957" data-name="Group 30957" clip-path="url(#clip-path)">
+      <path id="Path_1964" data-name="Path 1964" d="M242.057,280.287V275.7a.962.962,0,0,0-1.923,0v4.589a.962.962,0,0,0,1.923,0" transform="translate(-216.678 -247.9)" fill="#bc8418"/>
+      <path id="Path_1965" data-name="Path 1965" d="M242.057,71.1V66.509a.962.962,0,1,0-1.923,0v4.567a.962.962,0,0,0,1.923.022" transform="translate(-216.678 -59.144)" fill="#bc8418"/>
+      <path id="Path_1966" data-name="Path 1966" d="M241.1,176.654a.962.962,0,0,0,.962-.962V171.1a.962.962,0,1,0-1.923,0v4.589a.962.962,0,0,0,.962.962" transform="translate(-216.678 -153.522)" fill="#bc8418"/>
+      <path id="Path_1967" data-name="Path 1967" d="M172.347,71.1V66.509a.962.962,0,1,0-1.923,0V71.1a.962.962,0,0,0,1.923,0" transform="translate(-153.776 -59.144)" fill="#bc8418"/>
+      <path id="Path_1968" data-name="Path 1968" d="M171.373,176.654h.011a.962.962,0,0,0,.962-.962V171.1a.962.962,0,1,0-1.924,0v4.589a.962.962,0,0,0,.951.962" transform="translate(-153.775 -153.522)" fill="#bc8418"/>
+      <path id="Path_1969" data-name="Path 1969" d="M171.385,281.249a.962.962,0,0,0,.962-.962V275.7a.962.962,0,0,0-1.924,0v4.589a.962.962,0,0,0,.951.962h.011" transform="translate(-153.776 -247.9)" fill="#bc8418"/>
+      <path id="Path_1970" data-name="Path 1970" d="M49.324,360.093a.962.962,0,0,0-.962-.962h-.813a.962.962,0,1,0,0,1.923h.813a.962.962,0,0,0,.962-.962" transform="translate(-42.036 -324.052)" fill="#bc8418"/>
+      <path id="Path_1971" data-name="Path 1971" d="M49.324,303.717a.962.962,0,0,0-.962-.962h-.813a.962.962,0,0,0,0,1.923h.813a.962.962,0,0,0,.962-.962" transform="translate(-42.036 -273.182)" fill="#bc8418"/>
+      <path id="Path_1972" data-name="Path 1972" d="M49.324,415.963a.962.962,0,0,0-.962-.962h-.813a.962.962,0,0,0,0,1.923h.813a.962.962,0,0,0,.962-.962" transform="translate(-42.036 -374.464)" fill="#bc8418"/>
+      <path id="Path_1973" data-name="Path 1973" d="M353.2,247.847a.962.962,0,0,0-.962-.962h-.808a.962.962,0,1,0,0,1.923h.808a.962.962,0,0,0,.962-.962" transform="translate(-316.234 -222.77)" fill="#bc8418"/>
+      <path id="Path_1974" data-name="Path 1974" d="M353.2,191.471a.962.962,0,0,0-.962-.962h-.808a.962.962,0,1,0,0,1.923h.808a.962.962,0,0,0,.962-.962" transform="translate(-316.234 -171.9)" fill="#bc8418"/>
+      <path id="Path_1975" data-name="Path 1975" d="M0,22.68V44.767A4.254,4.254,0,0,0,4.248,49H39.179a.962.962,0,1,0,0-1.923H32.035V14.9h7.1V25.89a.962.962,0,0,0,1.923,0V13.931a.962.962,0,0,0-.962-.962H32.035V.961A.962.962,0,0,0,31.1,0H10.914a.962.962,0,0,0-.962.962V21.718H.962A.962.962,0,0,0,0,22.68M18.559,39.42h4.9v7.656h-4.9ZM11.876,1.9H30.139V47.076H25.379V38.458a.962.962,0,0,0-.962-.962H17.608a.962.962,0,0,0-.962.962v8.617h-4.77ZM1.923,23.642H9.947V47.1h-5.7a2.33,2.33,0,0,1-2.325-2.33Z" transform="translate(0 0.001)" fill="#bc8418"/>
+      <path id="Path_1976" data-name="Path 1976" d="M398.055,353.725a.7.7,0,0,1-.495-.2l-2.235-2.235a.7.7,0,1,1,.989-.989l1.74,1.74,4.2-4.2a.7.7,0,0,1,.99.989l-4.694,4.694a.7.7,0,0,1-.495.2" transform="translate(-356.526 -313.675)" fill="#bc8418"/>
+    </g>
+  </g>
+  <g id="Group_30960" data-name="Group 30960" transform="translate(33.803 28.047)">
+    <g id="Group_30959" data-name="Group 30959" clip-path="url(#clip-path-2)">
+      <path id="Path_1977" data-name="Path 1977" d="M355.016,305.045a8.956,8.956,0,1,1,8.956-8.956,8.966,8.966,0,0,1-8.956,8.956m0-16.513a7.557,7.557,0,1,0,7.557,7.557,7.565,7.565,0,0,0-7.557-7.557" transform="translate(-346.06 -287.133)" fill="#bc8418"/>
+    </g>
+  </g>
+</svg>

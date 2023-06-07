@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="Group_31560" data-name="Group 31560" transform="translate(-291 -740)">
+    <g id="Group_31558" data-name="Group 31558">
+      <rect id="Rectangle_949" data-name="Rectangle 949" width="52" height="52" rx="26" transform="translate(291 740)" fill="#fff"/>
+      <circle id="Ellipse_55" data-name="Ellipse 55" cx="7.5" cy="7.5" r="7.5" transform="translate(296 743)" fill="#fff"/>
+    </g>
+    <g id="Group_31559" data-name="Group 31559">
+      <g id="Group_30832" data-name="Group 30832" transform="translate(-1513.155 -574.947)">
+        <g id="Group_30830" data-name="Group 30830" transform="translate(1809.521 1320.313)">
+          <circle id="Ellipse_19" data-name="Ellipse 19" cx="21" cy="21" r="21" transform="translate(-0.37 -0.37)" fill="#bc8418"/>
+          <path id="Icon_material-chat" data-name="Icon material-chat" d="M14.862,3H4.318A1.316,1.316,0,0,0,3.007,4.318L3,16.18l2.636-2.636h9.226a1.322,1.322,0,0,0,1.318-1.318V4.318A1.322,1.322,0,0,0,14.862,3ZM5.636,7.613h7.908V8.931H5.636Zm5.272,3.3H5.636V9.59h5.272Zm2.636-3.954H5.636V5.636h7.908Z" transform="translate(10.636 11.254)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="4.5" cy="4.5" r="4.5" transform="translate(1812.154 1320.947)" fill="#ff3d3d"/>
+      </g>
+    </g>
+  </g>
+</svg>
